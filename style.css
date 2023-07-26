@@ -1,0 +1,81 @@
+.home img{
+    margin-top: 25%;
+    width: 70%;
+    height: 50%;
+    border-radius: 1000%;
+}
+.home h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 5%;
+}
+.home a{
+    align-items: center;
+   padding: 3%;
+   color: black;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.092);
+    border-radius: 15%;
+}
+.about{
+    margin-top: 3%;
+}
+.about p{
+    letter-spacing: 1px;
+    margin-left: 1px;
+}
+
+.extra-info a {
+    background: #7a74045b;
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 90px;
+    vertical-align: middle;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.skills h5{
+padding: 5%;
+}
+.pro a{
+    background-color: rgba(128, 128, 128, 0.206);
+    color: black;
+    font-weight: bold;
+}
+.contact{
+    margin-top: 10%;
+}
+.pro{
+    justify-content: space-between;
+}
+
+.foot{
+    background-color: rgba(128, 128, 128, 0.095);
+    margin-top: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
